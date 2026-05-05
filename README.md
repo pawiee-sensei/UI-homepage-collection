@@ -6,13 +6,35 @@ Each folder contains one standalone webpage concept with its own source files, i
 
 ## Projects
 
-| Project | Description | Folder |
-| --- | --- | --- |
-| Mizu Matcha | A clean matcha e-commerce landing page with product, benefits, tutorial, journal, and signup sections. | [mizu](./mizu) |
-| Interior Design | A modern interior design homepage focused on services, storytelling, and featured projects. | [interior](./interior) |
-| Velora Brew | A cafe and dining homepage with menu highlights, story sections, and location-focused imagery. | [coffee](./coffee) |
-| Void/13 | A fashion landing page concept with bold product visuals and streetwear-inspired layout. | [void13](./void13) |
-| Velora | A lifestyle apparel homepage with community, essentials, and product showcase sections. | [adanola](./adanola) |
+### [Mizu Matcha](./mizu)
+
+A clean matcha e-commerce landing page with product, benefits, tutorial, journal, and signup sections.
+
+![Mizu Matcha homepage preview](./mizu/images/mizu.png)
+
+### [Interior Design](./interior)
+
+A modern interior design homepage focused on services, storytelling, and featured projects.
+
+![Interior design homepage preview](./interior/images/interior-home-page.png)
+
+### [Velora Brew](./coffee)
+
+A cafe and dining homepage with menu highlights, story sections, and location-focused imagery.
+
+![Velora Brew homepage preview](./coffee/images/home.png)
+
+### [Void/13](./void13)
+
+A fashion landing page concept with bold product visuals and streetwear-inspired layout.
+
+![Void/13 homepage preview](./void13/images/hero.png)
+
+### [Velora](./adanola)
+
+A lifestyle apparel homepage with community, essentials, and product showcase sections.
+
+![Velora homepage preview](./adanola/images/hero.png)
 
 ## Structure
 
