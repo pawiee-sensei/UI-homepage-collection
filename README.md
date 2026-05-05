@@ -18,17 +18,19 @@ A modern interior design homepage focused on services, storytelling, and feature
 
 ![Interior design homepage preview](./interior/images/interior-home-page.png)
 
+### [Void/13](./void13)
+
+A fashion landing page concept with bold product visuals and streetwear-inspired layout.
+
+![Void/13 homepage preview](./void13/images/VOID13.png)
+
+
 ### [Velora Brew](./coffee)
 
 A cafe and dining homepage with menu highlights, story sections, and location-focused imagery.
 
 ![Velora Brew homepage preview](./coffee/images/home.png)
 
-### [Void/13](./void13)
-
-A fashion landing page concept with bold product visuals and streetwear-inspired layout.
-
-![Void/13 homepage preview](./void13/images/void13.png)
 
 ### [Velora](./adanola)
 
