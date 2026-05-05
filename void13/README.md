@@ -11,7 +11,7 @@ Void/13 is a bold streetwear-inspired landing page concept built with HTML and C
 
 ## Preview
 
-![Void/13 homepage preview](images/hero.png)
+![Void/13 homepage preview](images/VOID13.png)
 
 ## Files
 
