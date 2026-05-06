@@ -12,7 +12,7 @@ Velora Brew is a cafe and dining homepage UI built with HTML and CSS. The page h
 
 ## Preview
 
-![Velora Brew homepage preview](images/home.png)
+![Velora Brew homepage preview](images/velora-brew.png)
 
 ## Files
 
