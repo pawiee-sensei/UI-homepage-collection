@@ -12,11 +12,6 @@ A clean matcha e-commerce landing page with product, benefits, tutorial, journal
 
 ![Mizu Matcha homepage preview](./mizu/images/mizu.png)
 
-### [Interior Design](./interior)
-
-A modern interior design homepage focused on services, storytelling, and featured projects.
-
-![Interior design homepage preview](./interior/images/interior-home-page.png)
 
 ### [Void/13](./void13)
 
@@ -24,6 +19,17 @@ A fashion landing page concept with bold product visuals and streetwear-inspired
 
 ![Void/13 homepage preview](./void13/images/VOID13.png)
 
+### [Aurelian](./aurelian)
+
+A luxury jewelry homepage with gold-inspired visuals, collection sections, best sellers, lookbook imagery, and brand storytelling.
+
+![Aurelian homepage preview](./aurelian/images/aurelian-page.png)
+
+### [Interior Design](./interior)
+
+A modern interior design homepage focused on services, storytelling, and featured projects.
+
+![Interior design homepage preview](./interior/images/interior-home-page.png)
 
 ### [Velora Brew](./coffee)
 
