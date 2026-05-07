@@ -38,11 +38,11 @@ A cafe and dining homepage with menu highlights, story sections, and location-fo
 ![Velora Brew homepage preview](./coffee/images/velora-brew.png)
 
 
-### [Velora](./adanola)
+### [Velora](./velora)
 
 A lifestyle apparel homepage with community, essentials, and product showcase sections.
 
-![Velora homepage preview](./adanola/images/hero.png)
+![Velora homepage preview](./velora/images/velora.png)
 
 ## Structure
 
@@ -54,6 +54,7 @@ UI-homepage-collection/
   coffee/
   void13/
   adanola/
+  aurelian/
 ```
 
 ## Notes
